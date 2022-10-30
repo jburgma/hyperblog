@@ -2,4 +2,6 @@ Hola, hoy hablaremos de la
 
 historia de John que vive en
 
-Alemania y tiene 55 años
+Alemania por ahora y tiene 45 años,
+
+desea comenzar a programar con Python
