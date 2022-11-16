@@ -37,6 +37,14 @@ body
 {
     font-size: 30px;
 }
+
+#footer
+{
+    background: #333;
+    color: white;
+    text-align: center;
+}
+
 #post
 {
     padding: 1em;
